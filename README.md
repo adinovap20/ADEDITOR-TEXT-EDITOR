@@ -6,6 +6,6 @@ First download the source file ADEDITOR.java in your pc. You should have java an
 
 <br/><br/>Now open the command prompt and type ***javac ADEDITOR.java***.
 
-<img src="">
+<img src="Images/javac.png">
 
 <br/><br/>This will compile the java program and you can see another file ***ADEDITOR.class*** in the same bin folder as shown in the figure.
