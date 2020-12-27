@@ -1,4 +1,4 @@
-# ADEDITOR
+# ADEDITOR - THE TEXT EDITOR
 This is a simple Text/code editor developed by Aditya P in JAVA. Suppose you have a text file or code in any language, you can easily edit your files with the help of **ADEDITOR**. You may get various features in this ADEDITOR.
 
 # How to use ADEDITOR
