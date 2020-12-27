@@ -11,3 +11,5 @@ First download the source file ADEDITOR.java in your pc. You should have java an
 <br/>It will show a warning. But neglect it as it is not an error. This will compile the java program and you can see another file ***ADEDITOR.class*** in the same bin folder. Now open the command prompt again and type ***java ADEDITOR***. This will open the ADEDITOR GUI and you can see the following window.
 
 <img src="Images/gui.png">
+
+<br/>Start editing by just typing random things. You can save the files, open the files, create new files, cut, copy, paste, etc etc. It can be used to edit any file which you want. So, start using ADEDITOR now!
